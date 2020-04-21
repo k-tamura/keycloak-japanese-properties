@@ -1,2 +1,3 @@
-# Keycloak Japanese Properties
-Keycloak Japanese Properties
+# Keycloak日本語プロパティー
+
+Keycloakを日本語化するプロパティーファイルです。適当なタイミングで本家にプルリクエストします。
